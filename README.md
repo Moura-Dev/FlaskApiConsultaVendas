@@ -11,6 +11,6 @@ Api de Consulta Postgresql
   * pip install -r requirements.txt
   * flask run
 
-# Modelo de Url Esperada pela API
+# Modelo de Consulta Url Esperada pela API
 
 http://127.0.0.1:5000/5.1.1/2020-26-08
